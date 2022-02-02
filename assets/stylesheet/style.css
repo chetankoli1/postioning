@@ -1,0 +1,18 @@
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+}
+
+.two {
+  /* display: none; */
+  /* visibility: hidden; */
+  /* z-index: 50; */
+  
+}
+.btn {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+ 
+}
